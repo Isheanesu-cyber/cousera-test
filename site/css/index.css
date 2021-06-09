@@ -1,0 +1,31 @@
+body{
+  background-color:#fff;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 18px
+}
+
+#logo img{
+  width:90px;
+  height:70px;
+  margin-left: 30px;
+  margin-right: 20px;
+}
+
+.navbar-nav{
+  margin-right: auto;
+  margin-left: 20px;
+  margin-top:20px;
+}
+
+ #items li, #items li a{
+  display: inline;
+  text-align:right;
+  padding-left: 10px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+#items li a:hover, #items li a:active{
+  color: #fff;
+
+}
